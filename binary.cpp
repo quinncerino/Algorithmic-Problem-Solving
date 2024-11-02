@@ -1,3 +1,11 @@
+/* CSCI 1010 Section 001
+ * Lab week 10 - 1
+ * Binary Converter
+ * Author: Quinn Cerino
+ * Date: October 23, 2024
+*/
+
+
 #include<iostream>
 using namespace std;
 int main()
